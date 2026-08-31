@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.giphy.com/qrtxxe638kXlhKBDxg.gif" alt="Gojo" width="480" />
+</p>
 
-<!--
-**manuelgojo/manuelgojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://giphy.com/gifs/msrsakibur-gojo-edit-jjk-qrtxxe638kXlhKBDxg">
+    <img src="https://i.giphy.com/qrtxxe638kXlhKBDxg.gif" alt="Gojo" width="480" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+![Gojo](https://i.giphy.com/qrtxxe638kXlhKBDxg.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/qrtxxe638kXlhKBDxg/giphy.gif" alt="Gojo" width="480"/>
+</p>

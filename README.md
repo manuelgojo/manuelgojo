@@ -3,4 +3,11 @@
 </p>
 
 ---
-[![Discord](https://discord.com/api/guilds/1543359890683068489/widget.png?style=banner2)](https://discord.gg/HPeygfabpB)
+
+<div align="center">
+
+### 💬 JOIN THE COMMUNITY
+
+[![Discord](https://invidget.switchblade.xyz/HPeygfabpB)](https://discord.gg/HPeygfabpB)
+
+</div>

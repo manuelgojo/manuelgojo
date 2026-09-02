@@ -6,8 +6,8 @@
 
 <div align="center">
 
-### 💬 JOIN THE COMMUNITY
+### JOIN THE DISCORD
 
-[![Discord](https://invidget.switchblade.xyz/HPeygfabpB)](https://discord.gg/HPeygfabpB)
+[![Discord](https://discord.com/api/guilds/1543359890683068489/widget.png?style=banner1)](https://discord.gg/HPeygfabpB)
 
 </div>
